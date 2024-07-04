@@ -1,5 +1,7 @@
 Educhem is a fully responsive education landing page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
+[http://Zainab-Dahshan.github.io/educhem.git]
+
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
