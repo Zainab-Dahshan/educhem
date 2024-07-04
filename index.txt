@@ -1,0 +1,137 @@
+Educhem land - Education landing page Education Project: Online Course Development for Chemistry
+
+alt = Educhem land logo
+
+<ion-icon name="menu-outline"></ion-icon>
+
+<ion-icon name="close-outline"></ion-icon>
+
+alt = Educhem land logo
+
+Home
+About
+Courses
+Blog
+Contact
+
+Get Started
+
+
+
+# HERO
+
+alt = A young lady sits, holding a pen and a notebook.
+
+Master Chemistry Online with Expert-Led Courses
+
+Credibly redefine distinctive total linkage vis-a-vis multifunction data. Phosphorescently impact goal-oriented strategic
+
+Discover More
+
+
+
+# ABOUT
+
+alt = Educhem land students
+alt = Vector line art
+
+<ion-icon name="play"></ion-icon>
+
+We Help to Create Possibility & Success in Your Career!
+
+Continually administrate process-centric human capital rather than bleeding-edge methodologies. Distinctively supply accurate methods of empowerment before.
+
+Get Started Today
+
+
+
+
+
+
+
+# INSTRUCTORS
+
+alt = Vector line art
+
+Learn from industry experts
+
+View Our Experts
+
+alt = Mark
+Mark
+
+Assistant Director
+
+<ion-icon name="logo-google"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-linkedin"></ion-icon>
+
+alt = Zainab H. El-Dahshan
+Zainab H. El-Dahshan
+
+Director
+
+alt = Naira H. El-Dahshan
+Naira H. El-Dahshan
+
+Assistant Director
+
+
+
+# CTA
+
+Join thousands of learners and boost your chemistry knowledge today
+
+alt = Vector arrow art
+
+Register Now
+
+
+
+# FOOTER
+
+alt = Educhem land logo
+
+Professionally scale cross functional human capital and extensive technology.
+
+<ion-icon name="logo-google"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-linkedin"></ion-icon>
+
+Courses
+
+Organic Chemistry
+Inorganic Chemistry
+Analytical Chemistry
+Physical Chemistry
+
+Our Hub
+
+About
+Terms
+Privacy Policy
+Careers
+
+Select
+Courses
+Payment
+
+Contact
+
+Call : 
+546 3876 387
+Email : 
+zainabeldahshan@gmail.com
+Address : 
+Adress 1: Ras Sudre South Saini, Egypt
+Adress 2: Mansoura E`Dakahlia, Egypt
+
+&copy; 2024 Zainab-Dahshan. All right reserved
+
+
+
+# GO TO TOP
+
+<ion-icon name="arrow-up"></ion-icon>
