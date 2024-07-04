@@ -1,3 +1,24 @@
+<div align="center">
+  
+  ![GitHub repo size](https://img.shields.io/github/repo-size/Zainab-Dahshan/educhem)
+  ![GitHub stars](https://img.shields.io/github/stars/Zainab-Dahshan/educhem?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/Zainab-Dahshan/educhem?style=social)
+
+
+  <br />
+  <br />
+  
+  <img src="./readme-images/project-logo.png" />
+
+  <h2 align="center">Educhem - Landing page</h2>
+
+  Educhem is a fully responsive education landing page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+
+  <a href="https://Zainab-Dahshan.github.io/eduland/"><strong>➥ Live Demo</strong></a>
+
+</div>
+
+<br />
 Educhem is a fully responsive education landing page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
 [http://Zainab-Dahshan.github.io/educhem.git]
